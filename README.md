@@ -1,4 +1,4 @@
-# My_dashboards
+# PYTHON
 
 here is my project named zomato and its files for you!,
 
